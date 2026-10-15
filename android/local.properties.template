@@ -1,0 +1,4 @@
+# Template. Copy to local.properties on each dev machine and adjust the path
+# to your local Flutter SDK checkout. local.properties is git-ignored.
+flutter.sdk=/path/to/flutter
+sdk.dir=/path/to/Android/Sdk
